@@ -28,6 +28,8 @@ I'm currently finishing a degree in **Systems Analysis and Development**, driven
 [![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat-square&logo=vercel&logoColor=white)](https://seuportfolio.vercel.app/)
 [![Projetos](https://img.shields.io/badge/-GitHub%20Projects-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasReisD?tab=repositories)
 
+---
+
 ## 🛠️ Tecnologias | Technologies
 
 <p align="Left">
