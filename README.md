@@ -56,7 +56,7 @@ I'm currently finishing a degree in **Systems Analysis and Development**, driven
 <i>PT-BR:</i> Landing page romântica com carrossel e responsividade.  
 <i>EN:</i> Love-themed responsive landing page with image carousel.
 
-🎮 **[Hunter x Hunter: Nen Quest](https://github.com/LucasReisD/)**  
+🎮 **[Hunter x Hunter: Nen Quest](https://lucasreisd.github.io/Hunter-x-Hunter-Nen-Quest/)**  
 <i>PT-BR:</i> Página promocional fictícia de um jogo baseado em HxH.  
 <i>EN:</i> Fictional landing page for a Hunter x Hunter inspired game.
 
