@@ -1,4 +1,4 @@
-o que voce acha: <img 
+<img 
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:b22222&height=200&section=header&text=Marcos%20Lucas&fontAlign=50&fontAlignY=55&fontColor=ffffff&desc=Desenvolvedor%20Fullstack%20%7C%20Fã%20do%20Homem-Aranha%20%F0%9F%95%B7%EF%B8%8F&descAlign=50&descAlignY=90" 
   width="100%" 
   alt="banner Marcos Lucas"
