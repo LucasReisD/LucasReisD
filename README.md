@@ -1,4 +1,4 @@
-<img 
+o que voce acha: <img 
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:b22222&height=200&section=header&text=Marcos%20Lucas&fontAlign=50&fontAlignY=55&fontColor=ffffff&desc=Desenvolvedor%20Fullstack%20%7C%20Fã%20do%20Homem-Aranha%20%F0%9F%95%B7%EF%B8%8F&descAlign=50&descAlignY=90" 
   width="100%" 
   alt="banner Marcos Lucas"
@@ -44,31 +44,29 @@ I'm currently finishing a degree in **Systems Analysis and Development**, driven
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" title="Git"/>
 </p>
 
-
-
 ---
 
-## 📂 Projetos em Destaque | Featured Projects
+# 📂 Projetos em Destaque | Featured Projects
 
-🔗 **[Calculadora de IMC (Flask + Tkinter)](https://github.com/LucasReisD/Calculadora-IMC)**  
-<i>PT-BR:</i> Projeto fullstack para calcular e classificar IMC com duas interfaces.  
-<i>EN:</i> Fullstack BMI calculator with Flask (web) and Tkinter (desktop) UI.
-
-💖 **[Página de Declaração de Amor](https://lucasreisd.github.io/AmorNoAR/)**  
-<i>PT-BR:</i> Landing page romântica com carrossel e responsividade.  
-<i>EN:</i> Love-themed responsive landing page with image carousel.
+⚽ **[Tabela do Brasileirão](https://lucasreisd.github.io/Tabela-Brasileirao/)**  
+<i>PT-BR:</i> Landing page esportiva interativa com tabela do campeonato brasileiro e design responsivo.  
+<i>EN:</i> Interactive sports landing page with Brazilian championship table and responsive design.
 
 🎮 **[Hunter x Hunter: Nen Quest](https://lucasreisd.github.io/Hunter-x-Hunter-Nen-Quest/)**  
-<i>PT-BR:</i> Página promocional fictícia de um jogo baseado em HxH.  
-<i>EN:</i> Fictional landing page for a Hunter x Hunter inspired game.
+<i>PT-BR:</i> Página promocional fictícia de um jogo inspirado no universo de Hunter x Hunter.  
+<i>EN:</i> Fictional promotional landing page for a game inspired by the Hunter x Hunter universe.
+
+🎲 **[Gerador de Número Aleatório](https://lucasreisd.github.io/gerador-aleatorio/)**  
+<i>PT-BR:</i> Ferramenta interativa para geração de números aleatórios dentro de intervalos personalizáveis.  
+<i>EN:</i> Interactive tool for generating random numbers within customizable ranges.
+
+💖 **[Página de Declaração de Amor](https://lucasreisd.github.io/AmorNoAR/)**  
+<i>PT-BR:</i> Landing page romântica com carrossel de imagens e design completamente responsivo.  
+<i>EN:</i> Romantic landing page with image carousel and fully responsive design.
 
 🎓 **[Portfólio Pessoal](https://github.com/LucasReisD/)**  
-<i>PT-BR:</i> Site estático com seções de habilidades, projetos e contato.  
-<i>EN:</i> Static site showcasing skills, projects, and contact info.
-
-🐍 **[Estudos em Python](https://github.com/LucasReisD/)**  
-<i>PT-BR:</i> Scripts simples de prática com lógica e estrutura de dados.  
-<i>EN:</i> Python scripts to practice logic and basic structures.
+<i>PT-BR:</i> Site estático profissional apresentando habilidades, projetos em destaque e informações de contato.  
+<i>EN:</i> Professional static site showcasing skills, featured projects, and contact information.
 
 ---
 
