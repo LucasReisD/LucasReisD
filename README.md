@@ -1,92 +1,69 @@
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:b22222&height=200&section=header&text=Marcos%20Lucas&fontAlign=50&fontAlignY=55&fontColor=ffffff&desc=Desenvolvedor%20Fullstack%20%7C%20Fã%20do%20Homem-Aranha%20%F0%9F%95%B7%EF%B8%8F&descAlign=50&descAlignY=90" 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1f4d,50:1a3fae,100:f3f6ff&height=220&section=header&text=Marcos%20Lucas&fontSize=60&fontAlign=50&fontAlignY=55&desc=Fullstack%20Developer%20|%20Punk%20Rock%20Vibes&descAlign=50&descAlignY=90&fontColor=ffffff&animation=fadeIn"
   width="100%" 
-  alt="banner Marcos Lucas"
-/>
+  alt="Banner Marcos Lucas"/>
+
+---
 
 ## 🖥️ Sobre mim | About me
 
-**PT-BR**  
-Sou **Marcos Lucas**, desenvolvedor web em formação, focado em front-end moderno com **HTML, CSS, Tailwind, JavaScript, React e Angular**.  
-Atualmente, curso **Análise e Desenvolvimento de Sistemas** e sou movido por fé, disciplina e o desejo de impactar o mundo com projetos que fazem sentido.  
+Opa! Sou Marcos Lucas, tenho 21 anos sou de Fortaleza - CE.  
+Desenvolvedor web em formação, apaixonado por front-end moderno e backend com Python/Flask.  
 
-- Cristão, determinado e apaixonado por corrida, calistenia e o Homem-Aranha 🕷️  
-- Estudando através de cursos práticos, projetos autorais e planos de estudo intensivo.
+- Cristão, persistente e fã de calistenia, Superman e cultura geek/punk 🎸  
+- Projetos autorais, experimentos e contribuições open-source  
+  
+Hello! I'm Marcos Lucas, 21 years old, from Fortaleza, Brazil.  
+Web developer in training, front-end modern stacks + Python/Flask backend.  
 
-**EN**  
-I'm **Marcos Lucas**, a web developer in training focused on modern front-end using **HTML, CSS, Tailwind, JavaScript, React, and Angular**.  
-I'm currently finishing a degree in **Systems Analysis and Development**, driven by faith, discipline and a desire to build meaningful tech projects.
-
-- Faith-based, passionate about pixel art, calisthenics and Spider-Man 🕸️  
-- Learning through hands-on courses, personal projects, and open-source contribution.
+- Faith-driven, persistent, passionate about calisthenics, Superman, and geek/punk culture 🕸️
+- Personal projects, experiments, and open-source contributions  
 
 ---
-## 🔍Onde me encontrar | Where to find me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/LucasReisD) 
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lucassampaio360x@gmail.com)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat-square&logo=vercel&logoColor=white)](https://seuportfolio.vercel.app/)
-[![Projetos](https://img.shields.io/badge/-GitHub%20Projects-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasReisD?tab=repositories)
+## 🔗 Onde me encontrar | Where to find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/LucasReisD) 
+[![Email](https://img.shields.io/badge/Email-1a3fae?style=flat&logo=gmail&logoColor=white)](mailto:lucassampaio360x@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-0a1f4d?style=flat&logo=vercel&logoColor=white)](https://seuportfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white)](https://github.com/LucasReisD?tab=repositories)
 
 ---
 
 ## 🛠️ Tecnologias | Technologies
 
-<p align="Left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50px" title="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50px" title="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50px" title="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" title="Git"/>
-</p>
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)]()
+[![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)]()
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)]()
 
 ---
 
-# 📂 Projetos em Destaque | Featured Projects
+## 📂 Projetos em Destaque | Featured Projects
 
-⚽ **[Tabela do Brasileirão](https://lucasreisd.github.io/Tabela-Brasileirao/)**  
-<i>PT-BR:</i> Landing page esportiva interativa com tabela do campeonato brasileiro e design responsivo.  
-<i>EN:</i> Interactive sports landing page with Brazilian championship table and responsive design.
-
-🎮 **[Hunter x Hunter: Nen Quest](https://lucasreisd.github.io/Hunter-x-Hunter-Nen-Quest/)**  
-<i>PT-BR:</i> Página promocional fictícia de um jogo inspirado no universo de Hunter x Hunter.  
-<i>EN:</i> Fictional promotional landing page for a game inspired by the Hunter x Hunter universe.
-
-🎲 **[Gerador de Número Aleatório](https://lucasreisd.github.io/gerador-aleatorio/)**  
-<i>PT-BR:</i> Ferramenta interativa para geração de números aleatórios dentro de intervalos personalizáveis.  
-<i>EN:</i> Interactive tool for generating random numbers within customizable ranges.
-
-💖 **[Página de Declaração de Amor](https://lucasreisd.github.io/AmorNoAR/)**  
-<i>PT-BR:</i> Landing page romântica com carrossel de imagens e design completamente responsivo.  
-<i>EN:</i> Romantic landing page with image carousel and fully responsive design.
-
-🎓 **[Portfólio Pessoal](https://github.com/LucasReisD/)**  
-<i>PT-BR:</i> Site estático profissional apresentando habilidades, projetos em destaque e informações de contato.  
-<i>EN:</i> Professional static site showcasing skills, featured projects, and contact information.
+🎮 **[Hunter x Hunter: Nen Quest](https://lucasreisd.github.io/Hunter-x-Hunter-Nen-Quest/)** – Landing page interativa Hunter x Hunter.  
+⚽ **[Tabela do Brasileirão](https://lucasreisd.github.io/Tabela-Brasileirao/)** – Tabela do campeonato brasileiro, UI moderna.  
+🎲 **[Gerador de Número Aleatório](https://lucasreisd.github.io/gerador-aleatorio/)** – Geração de números aleatórios customizáveis.  
+🎓 **[Portfólio Pessoal](https://github.com/LucasReisD/)** – Site estático profissional mostrando habilidades e informações.  
+💖 **[Página de Declaração de Amor](https://lucasreisd.github.io/AmorNoAR/)** – Landing page romântica com carrossel responsivo.  
 
 ---
 
 ## 📊 Estatísticas GitHub | GitHub Stats
 
-
 <p align="left">
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api?username=LucasReisD&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Estatísticas+do+GitHub+de+Marcos+Lucas" 
-       alt="Estatísticas GitHub de Marcos Lucas"/>
-  
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasReisD&layout=compact&theme=radical&custom_title=Tecnologias" 
-       alt="Tecnologias usadas por Marcos Lucas"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasReisD&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=GitHub+Stats"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasReisD&theme=radical&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasReisD&layout=compact&theme=radical&custom_title=Top+Languages"/>
 </p>
-
-
 
 ---
 
-<p align="center">
-  <i>"Com grandes poderes vêm grandes responsabilidades."</i>
-</p>
+<marquee behavior="scroll" direction="left" scrollamount="6">
+  <strong><p align="center"><i>“A esperança é o que nos torna fortes.” – Superman</i></p></marquee></strong>
+</marquee>
