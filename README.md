@@ -68,6 +68,7 @@ Web developer in training, front-end modern stacks + Python/Flask backend.
 </p>
 
 <!-- Snake Animation -->
+<!-- Snake Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/LucasReisD/LucasReisD/main/snake-animation/snake.svg" alt="Snake Game" />
 </p>
