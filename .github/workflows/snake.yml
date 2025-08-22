@@ -1,0 +1,34 @@
+name: Generate Snake SVG
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # roda todo dia à meia-noite
+  workflow_dispatch: # permite rodar manualmente
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install snk
+        run: npm install -g @platane/snk
+
+      - name: Generate Snake SVG
+        run: snk --github-user LucasReisD --svg snake-animation/snake.svg
+
+      - name: Commit and push SVG
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add snake-animation/snake.svg
+          git commit -m "Update snake SVG"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
