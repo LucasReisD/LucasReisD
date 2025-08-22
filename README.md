@@ -41,11 +41,11 @@ Web developer in training, front-end modern stacks + Python/Flask backend.
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
 [![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)]()
+<!-- Linux / Desktop Environments -->
+[![Debian](https://img.shields.io/badge/Debian-0070BB?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
+[![KDE](https://img.shields.io/badge/KDE-0A74DA?style=flat-square&logo=kde&logoColor=white)](https://kde.org/)
+[![Linux Mint Cinnamon](https://img.shields.io/badge/Linux_Mint_Cinnamon-87CF4F?style=flat-square&logo=linuxmint&logoColor=white)](https://linuxmint.com/)
 
-<!-- Linux & DEs -->
-[![Debian KDE](https://img.shields.io/badge/Linux_Debian-KDE-00599C?style=flat-square&logo=linux&logoColor=white)]()
-[![Linux Mint XFCE](https://img.shields.io/badge/Linux_Mint-XFCE-87CF4F?style=flat-square&logo=linuxmint&logoColor=white)]()
-[![Linux Mint Cinnamon](https://img.shields.io/badge/Linux_Mint-Cinnamon-87CF4F?style=flat-square&logo=linuxmint&logoColor=white)]()
 
 ---
 
@@ -65,12 +65,6 @@ Web developer in training, front-end modern stacks + Python/Flask backend.
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasReisD&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=GitHub+Stats"/>
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasReisD&theme=radical&hide_border=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasReisD&layout=compact&theme=radical&custom_title=Top+Languages"/>
-</p>
-
-<!-- Snake Animation -->
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LucasReisD/LucasReisD/main/snake-animation/snake.svg" alt="Snake Game" />
 </p>
 
 ---
