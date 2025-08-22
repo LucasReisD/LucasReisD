@@ -62,8 +62,7 @@ Web developer in training, front-end modern stacks + Python/Flask backend.
 ## 📊 Estatísticas GitHub | GitHub Stats
 
 <p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasReisD&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=GitHub+Stats"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasReisD&theme=radical&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasReisD&show_icons=true&theme=radical&include_all"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasReisD&layout=compact&theme=radical&custom_title=Top+Languages"/>
 </p>
 
