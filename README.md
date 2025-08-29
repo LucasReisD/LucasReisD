@@ -55,7 +55,6 @@ Web developer in training, front-end modern stacks + Python/Flask backend.
 ⚽ **[Tabela do Brasileirão](https://lucasreisd.github.io/Tabela-Brasileirao/)** – Tabela do campeonato brasileiro, UI moderna.  
 🎲 **[Gerador de Número Aleatório](https://lucasreisd.github.io/gerador-aleatorio/)** – Geração de números aleatórios customizáveis.  
 🎓 **[Portfólio Pessoal](https://github.com/LucasReisD/)** – Site estático profissional mostrando habilidades e informações.  
-💖 **[Página de Declaração de Amor](https://lucasreisd.github.io/AmorNoAR/)** – Landing page romântica com carrossel responsivo.  
 
 ---
 
