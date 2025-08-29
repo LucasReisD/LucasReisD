@@ -51,10 +51,11 @@ Web developer in training, front-end modern stacks + Python/Flask backend.
 
 ## 📂 Projetos em Destaque | Featured Projects
 
-🎮 **[Hunter x Hunter: Nen Quest](https://lucasreisd.github.io/Hunter-x-Hunter-Nen-Quest/)** – Landing page interativa Hunter x Hunter.  
-⚽ **[Tabela do Brasileirão](https://lucasreisd.github.io/Tabela-Brasileirao/)** – Tabela do campeonato brasileiro, UI moderna.  
-🎲 **[Gerador de Número Aleatório](https://lucasreisd.github.io/gerador-aleatorio/)** – Geração de números aleatórios customizáveis.  
-🎓 **[Portfólio Pessoal](https://github.com/LucasReisD/)** – Site estático profissional mostrando habilidades e informações.  
+🃏 **[Card Baby Yoda](https://github.com/LucasReisD/card-baby-yoda)** – Card interativo estilizado inspirado no Baby Yoda, feito com HTML, CSS e JavaScript.  
+🎮 **[Hunter x Hunter: Nen Quest](https://github.com/LucasReisD/Hunter-x-Hunter-Nen-Quest)** – Landing page interativa Hunter x Hunter.  
+⚽ **[Tabela do Brasileirão](https://github.com/LucasReisD/Tabela-Brasileirao)** – Tabela do campeonato brasileiro, UI moderna.  
+🎲 **[Gerador de Número Aleatório](https://github.com/LucasReisD/gerador-aleatorio)** – Geração de números aleatórios customizáveis.  
+🎓 **[Portfólio Pessoal](https://github.com/LucasReisD/Portfolio-Pessoal)** – Site estático profissional mostrando habilidades e informações.  
 
 ---
 
